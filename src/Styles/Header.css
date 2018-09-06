@@ -1,0 +1,30 @@
+.header {
+    background-color: rgb(224, 226, 226);
+}
+
+.search-form {
+    display: flex;
+    justify-content: center;
+}
+
+.search-form__input {
+    display: inline-block;
+    width: 30vw;
+    padding: 2.5vh 5vw;
+    border: none;
+    border-radius: 5vh;
+    margin: 2vh;
+    font-size: 120%;
+}
+
+.ok-btn {
+    color: rgb(250, 250, 250);
+    background-color: rgb(32, 158, 158);
+    min-width: 5vw;
+    height: 8vh;
+    padding: 1vw;
+    border: none;
+    border-radius: 5vh;
+    font-size: 120%;
+
+}
